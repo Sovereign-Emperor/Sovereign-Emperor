@@ -10,7 +10,25 @@
 
 <!-- HERO -->
 <div align="center">
+<<<<<<< HEAD
   <img src="./assets/hero.svg" width="100%" alt="Sovereign Emperor — Computer Science student, software developer in progress, builder, entrepreneur, problem solver" />
+=======
+
+<!-- Hero banner: replace with your own banner image URL (recommended 1280x320), or delete this line -->
+<!-- <img src="YOUR_BANNER_IMAGE_URL" alt="Sovereign Emperor banner" width="100%" /> -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sovereign%20Emperor&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20%C2%B7%20Business%20%C2%B7%20Ownership&descAlignY=60&descSize=18" alt="Sovereign Emperor header" width="100%" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Founder+of+ShopMind+AI;Building+real+software+for+real+problems;Learn+%E2%86%92+Build+%E2%86%92+Validate+%E2%86%92+Earn+%E2%86%92+Scale+%E2%86%92+Own" alt="Typing animation" />
+</a>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Sovereign-Emperor&label=Profile%20Views&color=7c3aed&style=flat-square)
+![Followers](https://img.shields.io/github/followers/Sovereign-Emperor?style=flat-square&color=7c3aed&logo=github)
+
+>>>>>>> 9b8aebc8f75361aa74e6abf22e7e1cc873393dbd
 </div>
 
 <!-- NAVIGATION -->
@@ -57,7 +75,18 @@ I learn by **building**: practical software, experiments, and ideas turned into 
   </tr>
 </table>
 
+<<<<<<< HEAD
 <div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
+=======
+| | |
+|---|---|
+| 🚀 **Building** | **ShopMind AI**, a vertical SaaS product for small retail businesses |
+| 🧭 **Exploring** | Customer discovery and problem validation for **Project Sovereign**, my entrepreneurial learning vehicle |
+| 🎓 **Studying** | BTech Computer Science at Koforidua Technical University |
+| 🎥 **Creating** | Fintech and business-focused content (social media channels and short-form video) |
+| 🎞 **Editing** | Related style content (Editor) |
+| 🎯 **Goal** | Ship real products, get real users, and build toward ownership of scalable assets |
+>>>>>>> 9b8aebc8f75361aa74e6abf22e7e1cc873393dbd
 
 <!-- TECH STACK -->
 <a id="stack"></a>
@@ -161,7 +190,20 @@ My personal framework for becoming a stronger builder and entrepreneur.
 
 <div align="center">
 
+<<<<<<< HEAD
 **LEARN** → **BUILD** → **VALIDATE** → **SHIP** → **EARN** → **SCALE** → **OWN**
+=======
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sovereign-Emperor&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sovereign-Emperor&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sovereign-Emperor&theme=radical&hide_border=true" alt="GitHub streak" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sovereign-Emperor&theme=radical&no-frame=true&row=1&column=7" alt="GitHub trophies" />
+>>>>>>> 9b8aebc8f75361aa74e6abf22e7e1cc873393dbd
 
 </div>
 
