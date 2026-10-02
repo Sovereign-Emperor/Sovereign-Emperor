@@ -29,7 +29,7 @@
 
 ## 👑 About
 
-I'm a Computer Science student at **Koforidua Technical University (KTU), Ghana**, working toward becoming a strong software engineer and a builder of useful technology.
+I'm a Computer Science student at **Koforidua Technical University (KTU)**, working toward becoming a strong software engineer and a builder of useful technology.
 
 I learn by **building**: practical software, experiments, and ideas turned into working projects. Right now I'm strengthening my foundations in web development, programming, databases and software engineering, while exploring the path toward full-stack development and AI-powered applications.
 
