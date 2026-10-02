@@ -41,7 +41,8 @@ My approach is project-driven. I learn what a project demands, ship it, and let 
 | 🚀 **Building** | **ShopMind AI**, a vertical SaaS product for small retail businesses |
 | 🧭 **Exploring** | Customer discovery and problem validation for **Project Sovereign**, my entrepreneurial learning vehicle |
 | 🎓 **Studying** | BTech Computer Science at Koforidua Technical University |
-| 🎥 **Creating** | Fintech and business-focused content (WhatsApp channel and short-form video) |
+| 🎥 **Creating** | Fintech and business-focused content (social media channels and short-form video) |
+| 🎞 **Editing** | Related style content (Editor) |
 | 🎯 **Goal** | Ship real products, get real users, and build toward ownership of scalable assets |
 
 ---
