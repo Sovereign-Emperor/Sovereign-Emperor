@@ -17,8 +17,8 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=7c3aed&style=flat-square)
-![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=flat-square&color=7c3aed&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=Sovereign-Emperor&label=Profile%20Views&color=7c3aed&style=flat-square)
+![Followers](https://img.shields.io/github/followers/Sovereign-Emperor?style=flat-square&color=7c3aed&logo=github)
 
 </div>
 
@@ -134,16 +134,16 @@ My main entrepreneurial learning vehicle: customer discovery, problem validation
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sovereign-Emperor&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sovereign-Emperor&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" alt="GitHub streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sovereign-Emperor&theme=radical&hide_border=true" alt="GitHub streak" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&row=1&column=7" alt="GitHub trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Sovereign-Emperor&theme=radical&no-frame=true&row=1&column=7" alt="GitHub trophies" />
 
 </div>
 
