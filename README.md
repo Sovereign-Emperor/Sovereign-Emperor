@@ -1,179 +1,248 @@
 <!--
-  SETUP: Create a public repo named exactly YOUR_GITHUB_USERNAME (same as your username),
-  add this file as README.md, and it will show on your profile.
-  Search this file for "YOUR_" and "TODO" to find every placeholder.
+  SOVEREIGN EMPEROR — GitHub Profile README
+  Repo: Sovereign-Emperor/Sovereign-Emperor  (must be PUBLIC)
+  Assets live in ./assets/  (hero.svg, divider.svg, flow.svg, terminal.svg)
+
+  REPLACE BEFORE PUBLISHING (search the file for these):
+    YOUR_REPOSITORY_LINK   YOUR_PORTFOLIO_URL   YOUR_LINKEDIN_URL   YOUR_EMAIL
+    (optional) YOUR_WHATSAPP_LINK / YOUR_YOUTUBE_URL / YOUR_TIKTOK_URL
 -->
 
+<!-- HERO -->
+<div align="center">
+  <img src="./assets/hero.svg" width="100%" alt="Sovereign Emperor — Computer Science student, software developer in progress, builder, entrepreneur, problem solver" />
+</div>
+
+<!-- NAVIGATION -->
+<div align="center">
+  <a href="#about"><img src="https://img.shields.io/badge/ABOUT-2d1b69?style=for-the-badge" alt="About" /></a>
+  <a href="#projects"><img src="https://img.shields.io/badge/PROJECTS-2d1b69?style=for-the-badge" alt="Projects" /></a>
+  <a href="#stack"><img src="https://img.shields.io/badge/STACK-2d1b69?style=for-the-badge" alt="Stack" /></a>
+  <a href="#journey"><img src="https://img.shields.io/badge/JOURNEY-2d1b69?style=for-the-badge" alt="Journey" /></a>
+  <a href="#connect"><img src="https://img.shields.io/badge/CONTACT-2d1b69?style=for-the-badge" alt="Contact" /></a>
+</div>
+
+<br />
+
+<!-- ABOUT -->
+<a id="about"></a>
+
+## 👑 About
+
+I'm a Computer Science student at **Koforidua Technical University (KTU), Ghana**, working toward becoming a strong software engineer and a builder of useful technology.
+
+I learn by **building**: practical software, experiments, and ideas turned into working projects. Right now I'm strengthening my foundations in web development, programming, databases and software engineering, while exploring the path toward full-stack development and AI-powered applications.
+
+<!-- CURRENT FOCUS -->
+<table>
+  <tr>
+    <td width="150"><b>🔭 BUILDING</b></td>
+    <td>Real-world software projects and experiments</td>
+  </tr>
+  <tr>
+    <td><b>🌱 LEARNING</b></td>
+    <td>JavaScript • Python • React • Backend • Databases</td>
+  </tr>
+  <tr>
+    <td><b>🧠 EXPLORING</b></td>
+    <td>AI/ML • Full-stack development • Software architecture</td>
+  </tr>
+  <tr>
+    <td><b>🎯 FOCUS</b></td>
+    <td>Turning technical skills into useful products</td>
+  </tr>
+  <tr>
+    <td><b>🚀 LONG-TERM</b></td>
+    <td>Technology + Entrepreneurship + Ownership</td>
+  </tr>
+</table>
+
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
+
+<!-- TECH STACK -->
+<a id="stack"></a>
+
+## ⚡ Tech Stack
+
+> A direction, not a trophy case. Labels show where I actually am with each tool.
+
+<table>
+  <tr>
+    <td width="130"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="HTML, CSS, JavaScript, React" /></td>
+    <td><sub>HTML · CSS · JavaScript: <b>building with</b><br/>React: <b>learning</b></sub></td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=py,php,nodejs&theme=dark" alt="Python, PHP, Node.js" /></td>
+    <td><sub>Python · PHP: <b>building with</b><br/>Node.js: <b>exploring</b></sub></td>
+  </tr>
+  <tr>
+    <td><b>Database</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="MySQL, PostgreSQL" /></td>
+    <td><sub>MySQL: <b>building with</b><br/>PostgreSQL: <b>learning / next</b></sub></td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Git, GitHub, VS Code, Linux" /></td>
+    <td><sub>Git · GitHub: <b>building with</b><br/>Linux: <b>exploring</b></sub></td>
+  </tr>
+  <tr>
+    <td><b>AI</b></td>
+    <td><img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" /></td>
+    <td><sub>Python · AI APIs · Machine Learning: <b>exploring / learning</b></sub></td>
+  </tr>
+</table>
+
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
+
+<!-- HOW I BUILD -->
+## ⚡ How I Build
+
+<div align="center">
+  <img src="./assets/flow.svg" width="100%" alt="Problem, research, learn, build, test, ship, get feedback, improve, then repeat" />
+</div>
+
+> *I don't want to learn technology without a destination. Projects give my learning a purpose.*
+
+<!-- TERMINAL -->
+<div align="center">
+  <img src="./assets/terminal.svg" width="620" alt="Terminal: whoami Sovereign-Emperor; focus building useful software; stack JavaScript, Python, PHP, MySQL; mission Learn, Build, Ship, Scale" />
+</div>
+
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
+
+<!-- FEATURED PROJECTS -->
+<a id="projects"></a>
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👑 Sovereign Empire</h3>
+      <p>A long-term technology/business vision exploring digital commerce, local vendors, digital storefronts, payments, and tools that help businesses participate more effectively in the digital economy.</p>
+      <p><code>Digital commerce</code> <code>Storefronts</code> <code>Payments</code></p>
+      <p><b>Status:</b> 🚧 Concept / Development</p>
+      <p><a href="YOUR_REPOSITORY_LINK">View repository →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 Personal Developer Portfolio</h3>
+      <p>My personal developer portfolio for showcasing projects, technical skills, experiments and contact information.</p>
+      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
+      <p><b>Status:</b> 🚧 Building</p>
+      <p><a href="YOUR_REPOSITORY_LINK">View repository →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💻 JavaScript Projects</h3>
+      <p>Small practical projects used to strengthen JavaScript fundamentals and frontend development.</p>
+      <p><code>JavaScript</code> <code>Frontend</code></p>
+      <p><b>Status:</b> 🧪 Learning / Building</p>
+      <p><a href="YOUR_REPOSITORY_LINK">View repository →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🐍 Python Projects</h3>
+      <p>Programming experiments and practical projects used to strengthen Python and computational thinking.</p>
+      <p><code>Python</code> <code>Problem solving</code></p>
+      <p><b>Status:</b> 🧪 Learning / Building</p>
+      <p><a href="YOUR_REPOSITORY_LINK">View repository →</a></p>
+    </td>
+  </tr>
+</table>
+
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
+
+<!-- PROJECT SOVEREIGN -->
+## 👑 Project Sovereign
+
+My personal framework for becoming a stronger builder and entrepreneur.
+
 <div align="center">
 
-<!-- Hero banner: replace with your own banner image URL (recommended 1280x320), or delete this line -->
-<!-- <img src="YOUR_BANNER_IMAGE_URL" alt="Sovereign Emperor banner" width="100%" /> -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sovereign%20Emperor&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20%C2%B7%20Business%20%C2%B7%20Ownership&descAlignY=60&descSize=18" alt="Sovereign Emperor header" width="100%" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Founder+of+ShopMind+AI;Building+real+software+for+real+problems;Learn+%E2%86%92+Build+%E2%86%92+Validate+%E2%86%92+Earn+%E2%86%92+Scale+%E2%86%92+Own" alt="Typing animation" />
-</a>
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=7c3aed&style=flat-square)
-![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=flat-square&color=7c3aed&logo=github)
+**LEARN** → **BUILD** → **VALIDATE** → **SHIP** → **EARN** → **SCALE** → **OWN**
 
 </div>
 
----
+> *Find real problems. Build useful solutions. Get them into the hands of real people.*
 
-## 👋 About Me
+**Long-term vision.** Sovereign Empire represents my broader ambition to combine technology, entrepreneurship and product building. Areas I'm exploring (none are existing businesses): digital commerce, software products, AI, financial technology, education, digital platforms, and African technology markets.
 
-I'm **Sovereign Emperor**, a BTech Computer Science student at **Koforidua Technical University** and an early-stage founder. I use software as leverage: find a real problem, build the smallest useful solution, put it in front of real users, and improve it from their feedback.
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
-My approach is project-driven. I learn what a project demands, ship it, and let real users decide what comes next.
+<!-- LEARNING ROADMAP -->
+<a id="journey"></a>
 
-> **The game:** `LEARN → BUILD → VALIDATE → EARN → SCALE → OWN → COMPOUND`
+## 🧭 Learning Roadmap
 
----
+> A direction, not a claim that every item is mastered.
 
-## 🎯 Current Focus
+<table>
+  <tr>
+    <td width="60" align="center"><b>01</b></td>
+    <td width="170"><b>FOUNDATIONS</b></td>
+    <td>HTML · CSS · JavaScript · Git/GitHub · Programming fundamentals · Databases</td>
+  </tr>
+  <tr>
+    <td align="center"><b>02</b></td>
+    <td><b>MODERN WEB</b></td>
+    <td>React · TypeScript · APIs · Backend development · Authentication · PostgreSQL</td>
+  </tr>
+  <tr>
+    <td align="center"><b>03</b></td>
+    <td><b>ENGINEERING</b></td>
+    <td>Data structures · Algorithms · Architecture · Testing · Security · Linux · Docker · Deployment</td>
+  </tr>
+  <tr>
+    <td align="center"><b>04</b></td>
+    <td><b>AI</b></td>
+    <td>Python · AI APIs · LLMs · Automation · Machine Learning · AI-powered applications</td>
+  </tr>
+  <tr>
+    <td align="center"><b>05</b></td>
+    <td><b>BUILD 👑</b></td>
+    <td>Real users · Real products · Real problems · Real revenue</td>
+  </tr>
+</table>
 
-| | |
-|---|---|
-| 🚀 **Building** | **ShopMind AI**, a vertical SaaS product for small retail businesses |
-| 🧭 **Exploring** | Customer discovery and problem validation for **Project Sovereign**, my entrepreneurial learning vehicle |
-| 🎓 **Studying** | BTech Computer Science at Koforidua Technical University |
-| 🎥 **Creating** | Fintech and business-focused content (WhatsApp channel and short-form video) |
-| 🎯 **Goal** | Ship real products, get real users, and build toward ownership of scalable assets |
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
----
-
-## 🛠️ Tech Stack
-
-> TODO: Keep only what you genuinely use. Add or remove badges to match your real stack.
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**Backend and Data**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Tools and Infrastructure**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-**AI**
-
-![LLM APIs](https://img.shields.io/badge/LLM_APIs-7c3aed?style=for-the-badge&logo=anthropic&logoColor=white)
-
----
-
-## 📦 Featured Projects
-
-### 🛍️ ShopMind AI
-A vertical SaaS product for small retail businesses.
-
-- **Status:** Early stage
-- **Stack:** `TODO: list the stack you are actually using`
-- **Links:** [Repository](YOUR_SHOPMIND_REPO_URL) · [Live demo](YOUR_SHOPMIND_DEMO_URL)
-
-### 👑 Project Sovereign
-My main entrepreneurial learning vehicle: customer discovery, problem validation, and a narrow MVP before anything bigger. It sits inside the broader Sovereign Empire vision.
-
-- **Status:** Customer discovery
-- **Links:** [Repository / write-up](YOUR_PROJECT_SOVEREIGN_URL)
-
-### 🧩 Project 3: `TODO_PROJECT_NAME`
-`TODO: one-line description of what it does and who it is for.`
-
-- **Stack:** `TODO`
-- **Links:** [Repository](YOUR_REPO_URL) · [Demo](YOUR_DEMO_URL)
-
-<sub>Tip: pin your 6 best repositories on your profile to complement this section.</sub>
-
----
-
-## 🌱 Learning and Building
-
-**Currently learning (driven by what my projects need)**
-
-- [ ] Software architecture and multi-tenant SaaS design
-- [ ] Databases and PostgreSQL
-- [ ] Authentication and security fundamentals
-- [ ] Cloud deployment, Docker, and CI/CD
-- [ ] LLM APIs and AI application development
-- [ ] Payment APIs and integrations
-- [ ] `TODO: add or remove items as your focus changes`
-
-**On the business side**
-
-- Customer discovery and validation
-- Sales, pricing, and distribution
-- Product thinking and UX
-
----
-
-## 📊 GitHub Stats
-
-> Replace `YOUR_GITHUB_USERNAME` in every link below.
+<!-- GITHUB STATS -->
+## 📊 GitHub Activity
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" alt="GitHub streak" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&row=1&column=7" alt="GitHub trophies" />
-
+  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Sovereign-Emperor&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D4AF37&icon_color=7C3AED&text_color=E6E6E6" />
+  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sovereign-Emperor&layout=compact&hide_border=true&bg_color=0D1117&title_color=D4AF37&text_color=E6E6E6" />
+  <br /><br />
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=Sovereign-Emperor&hide_border=true&background=0D1117&ring=D4AF37&fire=7C3AED&currStreakNum=E6E6E6&sideNums=E6E6E6&currStreakLabel=D4AF37&sideLabels=D4AF37&dates=8F86B3" />
 </div>
 
-<sub>Note: public Vercel and Heroku instances of these services can be rate-limited or occasionally down. If a card fails to load, self-host it or swap in a different one.</sub>
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
----
+<!-- SOCIAL LINKS / CONNECT -->
+<a id="connect"></a>
 
-## 🤝 Let's Connect
+## 🤝 Connect
 
-I'm open to conversations about building software, small-business technology, and customer discovery.
+**Have an idea, project, or interesting problem? Let's build something useful.**
 
 <div align="center">
-
-<!-- Replace each URL and delete any you do not use -->
-[![Email](https://img.shields.io/badge/Email-YOUR__EMAIL-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](YOUR_X_URL)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](YOUR_YOUTUBE_URL)
-[![WhatsApp Channel](https://img.shields.io/badge/WhatsApp_Channel-Join-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](YOUR_WHATSAPP_CHANNEL_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-24243e?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_URL)
-
+  <a href="https://github.com/Sovereign-Emperor"><img src="https://img.shields.io/badge/GitHub-Sovereign--Emperor-0D1117?style=for-the-badge&logo=github&logoColor=D4AF37" alt="GitHub" /></a>
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-2d1b69?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-2d1b69?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-2d1b69?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <!-- OPTIONAL: uncomment the ones you actually use
+  <a href="YOUR_WHATSAPP_LINK"><img src="https://img.shields.io/badge/WhatsApp-2d1b69?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="YOUR_YOUTUBE_URL"><img src="https://img.shields.io/badge/YouTube-2d1b69?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="YOUR_TIKTOK_URL"><img src="https://img.shields.io/badge/TikTok-2d1b69?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+  -->
 </div>
 
----
+<!-- FOOTER -->
+<br />
 
 <div align="center">
-
-*"I do not need to know the entire path. I need to identify the next valuable problem, solve it, and ship."*
-
-**Find the problem. Build the MVP. Get the first user. Get the first GH₵.**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" alt="Footer" width="100%" />
-
+  <sub>Learn → Build → Validate → Ship → Improve → Repeat</sub><br />
+  <img src="https://komarev.com/ghpvc/?username=Sovereign-Emperor&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
 </div>
