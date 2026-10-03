@@ -29,7 +29,7 @@
 
 ## 👑 About
 
-I'm a Computer Science student at **Koforidua Technical University (KTU)**, working toward becoming a strong software engineer and a builder of useful technology.
+I'm a **Computer Science student**, working toward becoming a strong software engineer and a builder of useful technology.
 
 I learn by **building**: practical software, experiments, and ideas turned into working projects. Right now I'm strengthening my foundations in web development, programming, databases and software engineering, while exploring the path toward full-stack development and AI-powered applications.
 
@@ -229,11 +229,17 @@ My personal framework for becoming a stronger builder and entrepreneur.
 
 <div align="center">
   <a href="https://github.com/Sovereign-Emperor"><img src="https://img.shields.io/badge/GitHub-Sovereign--Emperor-0D1117?style=for-the-badge&logo=github&logoColor=D4AF37" alt="GitHub" /></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-2d1b69?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-2d1b69?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-2d1b69?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+  <a href="https://www.linkedin.com/in/sovereign-emperor"><img src="https://img.shields.io/badge/LinkedIn-2d1b69?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
+  <a href="[YOUR_PORTFOLIO_URL](https://sovereign-emperor-portfolio.netlify.app/)"><img src="https://img.shields.io/badge/Portfolio-2d1b69?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+
+  <a href="mailto:enochatikpo@gmail.com"><img src="https://img.shields.io/badge/Email-2d1b69?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+
+  <a href="[YOUR_WHATSAPP_LINK](https://wa.link/0xlkip)"><img src="https://img.shields.io/badge/WhatsApp-2d1b69?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  
   <!-- OPTIONAL: uncomment the ones you actually use
-  <a href="YOUR_WHATSAPP_LINK"><img src="https://img.shields.io/badge/WhatsApp-2d1b69?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
   <a href="YOUR_YOUTUBE_URL"><img src="https://img.shields.io/badge/YouTube-2d1b69?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="YOUR_TIKTOK_URL"><img src="https://img.shields.io/badge/TikTok-2d1b69?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
   -->
