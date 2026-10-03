@@ -1,11 +1,6 @@
 <!--
   SOVEREIGN EMPEROR — GitHub Profile README
-  Repo: Sovereign-Emperor/Sovereign-Emperor  (must be PUBLIC)
-  Assets live in ./assets/  (hero.svg, divider.svg, flow.svg, terminal.svg)
-
-  REPLACE BEFORE PUBLISHING (search the file for these):
-    YOUR_REPOSITORY_LINK   YOUR_PORTFOLIO_URL   YOUR_LINKEDIN_URL   YOUR_EMAIL
-    (optional) YOUR_WHATSAPP_LINK / YOUR_YOUTUBE_URL / YOUR_TIKTOK_URL
+  Repo: Sovereign-Emperor/Sovereign-Emperor  
 -->
 
 <!-- HERO -->
