@@ -115,7 +115,8 @@ I learn by **building**: practical software, experiments, and ideas turned into 
 <a id="projects"></a>
 
 ## 🚀 Featured Projects
-
+<!-- update coming soon -->
+<!-- reviewing my projects to display top ranked ones -->
 <!-- <table>
   <tr>
     <td width="50%" valign="top">
