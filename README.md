@@ -243,6 +243,7 @@ My personal framework for becoming a stronger builder and entrepreneur.
 <br />
 
 <div align="center">
-  <sub>Learn → Build → Validate → Ship → Improve → Repeat</sub><br />
+  <sub>Learn → Build → Validate → Ship → Improve → Repeat</sub> <br />
+
   <img src="https://komarev.com/ghpvc/?username=Sovereign-Emperor&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
 </div>
