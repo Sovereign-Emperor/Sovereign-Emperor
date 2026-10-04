@@ -6,7 +6,7 @@
 <!-- HERO -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=FFD700&center=true&vCenter=true&width=700&lines=COMPUTER+SCIENCE+STUDENT;SOFTWARE+DEVELOPER;BUILDER;TECH+ENTREPRENEUR;BUILDING+SOVEREIGN+EMPIRE" alt="Animated role">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=FFD700&center=true&vCenter=true&width=700&lines=COMPUTER+SCIENCE+STUDENT;SOFTWARE+DEVELOPER;EDITOR;TECH+ENTREPRENEUR;BUILDING+SOVEREIGN+EMPIRE" alt="Animated role">
 </p>
 <div align="center">
   <img src="./assets/hero.svg" width="100%" alt="Sovereign Emperor — Computer Science student, software developer in progress, builder, entrepreneur, problem solver" />
