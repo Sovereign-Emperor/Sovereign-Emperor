@@ -121,10 +121,10 @@ I learn by **building**: practical software, experiments, and ideas turned into 
   <tr>
     <td width="50%" valign="top">
       <h3>Sovereign Emperor Digital Library</h3>
-      <p>A long-term technology/business vision exploring digital commerce, local vendors, digital storefronts, payments, and tools that help businesses participate more effectively in the digital economy.</p>
-      <p><code>Digital commerce</code> <code>Storefronts</code> <code>Payments</code></p>
+      <p>Building a digital knowledge ecosystem to centralize books, courses, PDFs, and coding resources. Strengthening my skills in full-stack architecture, database design, and responsive UI while solving resource discovery and learning challenges.</p>
+      <p><code>Digital commerce</code> <code>Web Development</code> <code>EdTech</code></p>
       <p><b>Status:</b> 🚧 Concept / Development</p>
-      <p><a href="YOUR_REPOSITORY_LINK">View repository →</a></p>
+      <p><a href="https://github.com/Sovereign-Emperor/digi-market-store">View repository →</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>🌐 Personal Developer Portfolio</h3>
@@ -169,7 +169,7 @@ I learn by **building**: practical software, experiments, and ideas turned into 
     </td>
   </tr> -->
 
-</table> 
+</table>
 
 <div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
