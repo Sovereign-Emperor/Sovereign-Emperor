@@ -122,7 +122,7 @@ I learn by **building**: practical software, experiments, and ideas turned into 
     <td width="50%" valign="top">
       <h3>Sovereign Emperor Digital Library</h3>
       <p>Building a digital knowledge ecosystem to centralize books, courses, PDFs, and coding resources. Strengthening my skills in full-stack architecture, database design, and responsive UI while solving resource discovery and learning challenges.</p>
-      <p><code>Digital commerce</code> <code>Web Development</code> <code>EdTech</code></p>
+      <p><code>Digital Knowledge & Learning Platform</code> <code>Web Development</code> <code>EdTech</code></p>
       <p><b>Status:</b> 🚧 Concept / Development</p>
       <p><a href="https://github.com/Sovereign-Emperor/digi-market-store">View repository →</a></p>
     </td>
