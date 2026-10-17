@@ -120,6 +120,23 @@ I learn by **building**: practical software, experiments, and ideas turned into 
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>Sovereign Emperor Digital Library</h3>
+      <p>A long-term technology/business vision exploring digital commerce, local vendors, digital storefronts, payments, and tools that help businesses participate more effectively in the digital economy.</p>
+      <p><code>Digital commerce</code> <code>Storefronts</code> <code>Payments</code></p>
+      <p><b>Status:</b> 🚧 Concept / Development</p>
+      <p><a href="YOUR_REPOSITORY_LINK">View repository →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 Personal Developer Portfolio</h3>
+      <p>My personal developer portfolio for showcasing projects, technical skills, experiments and contact information.</p>
+      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
+      <p><b>Status:</b> 🚧 Building</p>
+      <p><a href="YOUR_REPOSITORY_LINK">View repository →</a></p>
+    </td>
+  </tr>
+
+  <!-- <tr>
+    <td width="50%" valign="top">
       <h3>👑 Sovereign Empire</h3>
       <p>A long-term technology/business vision exploring digital commerce, local vendors, digital storefronts, payments, and tools that help businesses participate more effectively in the digital economy.</p>
       <p><code>Digital commerce</code> <code>Storefronts</code> <code>Payments</code></p>
@@ -134,7 +151,7 @@ I learn by **building**: practical software, experiments, and ideas turned into 
       <p><a href="YOUR_REPOSITORY_LINK">View repository →</a></p>
     </td>
   </tr>
-  <!-- 
+ 
   <tr>
     <td width="50%" valign="top">
       <h3>💻 JavaScript Projects</h3>
@@ -150,8 +167,8 @@ I learn by **building**: practical software, experiments, and ideas turned into 
       <p><b>Status:</b> 🧪 Learning / Building</p>
       <p><a href="YOUR_REPOSITORY_LINK">View repository →</a></p>
     </td>
-  </tr>
-  -->
+  </tr> -->
+
 </table> 
 
 <div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
