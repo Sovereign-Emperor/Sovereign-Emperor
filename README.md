@@ -117,7 +117,7 @@ I learn by **building**: practical software, experiments, and ideas turned into 
 ## 🚀 Featured Projects
 <!-- update coming soon -->
 <!-- reviewing my projects to display top ranked ones -->
-<!-- <table>
+<table>
   <tr>
     <td width="50%" valign="top">
       <h3>👑 Sovereign Empire</h3>
@@ -134,6 +134,7 @@ I learn by **building**: practical software, experiments, and ideas turned into 
       <p><a href="YOUR_REPOSITORY_LINK">View repository →</a></p>
     </td>
   </tr>
+  <!-- 
   <tr>
     <td width="50%" valign="top">
       <h3>💻 JavaScript Projects</h3>
@@ -150,7 +151,8 @@ I learn by **building**: practical software, experiments, and ideas turned into 
       <p><a href="YOUR_REPOSITORY_LINK">View repository →</a></p>
     </td>
   </tr>
-</table> -->
+  -->
+</table> 
 
 <div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
