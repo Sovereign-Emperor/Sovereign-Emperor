@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240" role="img" aria-labelledby="title desc">
+  <title id="title">Project Sovereign orbital animation</title>
+  <desc id="desc">A glowing crown core with slowly orbiting gold and purple elements, symbolizing learning, building, and improving.</desc>
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFF1A8"/>
+      <stop offset=".52" stop-color="#D4AF37"/>
+      <stop offset="1" stop-color="#9E6F10"/>
+    </linearGradient>
+    <radialGradient id="core" cx=".32" cy=".25" r=".8">
+      <stop offset="0" stop-color="#FFF6C2"/>
+      <stop offset=".28" stop-color="#D4AF37"/>
+      <stop offset=".72" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#24133E"/>
+    </radialGradient>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="1" y="1" width="998" height="238" rx="22" fill="#0B0912" stroke="#D4AF37" stroke-opacity=".22"/>
+  <path d="M28 34H972" stroke="#FFFFFF" stroke-opacity=".06"/>
+  <path d="M28 206H972" stroke="#FFFFFF" stroke-opacity=".06"/>
+
+  <text x="54" y="78" fill="#D4AF37" font-family="monospace" font-size="12" font-weight="700" letter-spacing="3">PROJECT SOVEREIGN</text>
+  <text x="54" y="119" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700">Build with purpose.</text>
+  <text x="54" y="148" fill="#AAA3B8" font-family="Arial, Helvetica, sans-serif" font-size="15">Learn from real problems. Improve with every release.</text>
+
+  <g font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="1">
+    <rect x="54" y="169" width="82" height="24" rx="12" fill="#171224" stroke="#7C3AED" stroke-opacity=".7"/>
+    <text x="95" y="185" text-anchor="middle" fill="#D8C8FF">LEARN</text>
+    <path d="M145 181H169" stroke="#D4AF37" stroke-width="1.5"/>
+    <path d="M165 177L170 181L165 185" fill="none" stroke="#D4AF37" stroke-width="1.5"/>
+    <rect x="178" y="169" width="82" height="24" rx="12" fill="#171224" stroke="#D4AF37" stroke-opacity=".7"/>
+    <text x="219" y="185" text-anchor="middle" fill="#F6D978">BUILD</text>
+    <path d="M269 181H293" stroke="#D4AF37" stroke-width="1.5"/>
+    <path d="M289 177L294 181L289 185" fill="none" stroke="#D4AF37" stroke-width="1.5"/>
+    <rect x="302" y="169" width="92" height="24" rx="12" fill="#171224" stroke="#7C3AED" stroke-opacity=".7"/>
+    <text x="348" y="185" text-anchor="middle" fill="#D8C8FF">IMPROVE</text>
+  </g>
+
+  <g fill="none" stroke-linecap="round">
+    <ellipse cx="790" cy="120" rx="168" ry="62" transform="rotate(-17 790 120)" stroke="#D4AF37" stroke-opacity=".58" stroke-width="1.5"/>
+    <ellipse cx="790" cy="120" rx="132" ry="48" transform="rotate(24 790 120)" stroke="#8B5CF6" stroke-opacity=".62" stroke-width="1.5"/>
+  </g>
+
+  <g transform="translate(790 120)">
+    <g transform="scale(1 .37)">
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="18s" repeatCount="indefinite"/>
+        <circle cx="168" cy="0" r="7" fill="#FFF1A8" filter="url(#glow)"/>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(790 120)">
+    <g transform="scale(1 .55)">
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="180" to="540" dur="24s" repeatCount="indefinite"/>
+        <circle cx="132" cy="0" r="5" fill="#BFA2FF" filter="url(#glow)"/>
+      </g>
+    </g>
+  </g>
+
+  <ellipse cx="790" cy="160" rx="35" ry="8" fill="#7C3AED" opacity=".22"/>
+  <circle cx="790" cy="115" r="39" fill="url(#core)" stroke="#F5D978" stroke-opacity=".9" stroke-width="1.5" filter="url(#glow)">
+    <animate attributeName="r" values="37;40;37" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <path d="M768 113L776 98L790 109L804 98L812 113L807 130H773Z" fill="url(#gold)" stroke="#FFF1A8" stroke-opacity=".8"/>
+  <path d="M774 135H806" stroke="#FFF1A8" stroke-width="3" stroke-linecap="round"/>
+  <text x="790" y="157" text-anchor="middle" fill="#EDE7F7" font-family="monospace" font-size="9" letter-spacing="2">SE</text>
+
+  <circle cx="925" cy="55" r="2" fill="#D4AF37" opacity=".7"/>
+  <circle cx="946" cy="76" r="1.5" fill="#A78BFA" opacity=".8"/>
+  <circle cx="650" cy="181" r="1.5" fill="#D4AF37" opacity=".65"/>
+</svg>

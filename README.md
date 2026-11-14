@@ -1,3 +1,5 @@
+<a id="top"></a>
+
 <!-- HERO -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=F5C65D&center=true&vCenter=true&width=820&lines=COMPUTER+SCIENCE+STUDENT;SOFTWARE+DEVELOPER+IN+PROGRESS;BUILDING+USEFUL+PRODUCTS;LEARN+%E2%86%92+BUILD+%E2%86%92+SHIP" alt="Computer Science student, aspiring software developer, and builder" />
@@ -15,6 +17,7 @@
 
 <!-- NAVIGATION -->
 <div align="center">
+  <a href="#top"><img src="https://img.shields.io/badge/HOME-111827?style=for-the-badge" alt="Back to top" /></a>
   <a href="#about"><img src="https://img.shields.io/badge/ABOUT-2d1b69?style=for-the-badge" alt="About" /></a>
   <a href="#projects"><img src="https://img.shields.io/badge/PROJECTS-2d1b69?style=for-the-badge" alt="Projects" /></a>
   <a href="#stack"><img src="https://img.shields.io/badge/STACK-2d1b69?style=for-the-badge" alt="Stack" /></a>
@@ -108,7 +111,10 @@ An in-progress digital knowledge platform concept for bringing books, courses, P
 
 `Digital Library` `Web Development` `EdTech` · **Status:** 🚧 In development
 
-[Preview →](https://sedilib.netlify.app/) · [Source code →](https://github.com/Sovereign-Emperor/digi-market-store)
+<p>
+  <a href="https://sedilib.netlify.app/"><img src="https://img.shields.io/badge/OPEN_PREVIEW-7C3AED?style=for-the-badge&logo=netlify&logoColor=white" alt="Open the Digital Library preview" /></a>
+  <a href="https://github.com/Sovereign-Emperor/digi-market-store"><img src="https://img.shields.io/badge/VIEW_SOURCE-111827?style=for-the-badge&logo=github&logoColor=D4AF37" alt="View Digital Library source code" /></a>
+</p>
 
 ### 🌐 Personal Developer Portfolio
 
@@ -116,7 +122,9 @@ A home for my projects, experiments, technical interests, and ways to connect.
 
 `HTML` `CSS` `JavaScript` · **Status:** 🚧 In progress
 
-[Visit portfolio →](https://sovereign-emperor-portfolio.netlify.app/)
+<p>
+  <a href="https://sovereign-emperor-portfolio.netlify.app/"><img src="https://img.shields.io/badge/VISIT_PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my developer portfolio" /></a>
+</p>
 
 <div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
@@ -129,6 +137,10 @@ My long-term framework for building the skills and discipline to turn useful ide
 
 **LEARN** → **BUILD** → **VALIDATE** → **SHIP** → **EARN** → **SCALE** → **OWN**
 
+</div>
+
+<div align="center">
+  <img src="./assets/sovereign-orbit.svg" width="100%" alt="3D-inspired animated Sovereign core with gold and purple orbiting elements, representing learn, build, and improve" />
 </div>
 
 > *Find real problems. Build useful solutions. Get them into the hands of real people.*
@@ -186,4 +198,6 @@ My long-term framework for building the skills and discipline to turn useful ide
   <sub>Learn → Build → Validate → Ship → Improve → Repeat</sub> <br />
 
   <img src="https://komarev.com/ghpvc/?username=Sovereign-Emperor&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
+  <br />
+  <a href="#top">Back to top ↑</a>
 </div>
