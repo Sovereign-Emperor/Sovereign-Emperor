@@ -115,8 +115,7 @@ I learn by **building**: practical software, experiments, and ideas turned into 
 <a id="projects"></a>
 
 ## 🚀 Featured Projects
-<!-- update coming soon -->
-<!-- reviewing my projects to display top ranked ones -->
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -131,43 +130,9 @@ I learn by **building**: practical software, experiments, and ideas turned into 
       <p>My personal developer portfolio for showcasing projects, technical skills, experiments and contact information.</p>
       <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
       <p><b>Status:</b> 🚧 Building</p>
-      <p><a href="YOUR_REPOSITORY_LINK">View repository →</a></p>
+      <p><a href="https://sovereign-emperor-portfolio.netlify.app/">Visit portfolio →</a></p>
     </td>
   </tr>
-
-  <!-- <tr>
-    <td width="50%" valign="top">
-      <h3>👑 Sovereign Empire</h3>
-      <p>A long-term technology/business vision exploring digital commerce, local vendors, digital storefronts, payments, and tools that help businesses participate more effectively in the digital economy.</p>
-      <p><code>Digital commerce</code> <code>Storefronts</code> <code>Payments</code></p>
-      <p><b>Status:</b> 🚧 Concept / Development</p>
-      <p><a href="YOUR_REPOSITORY_LINK">View repository →</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌐 Personal Developer Portfolio</h3>
-      <p>My personal developer portfolio for showcasing projects, technical skills, experiments and contact information.</p>
-      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
-      <p><b>Status:</b> 🚧 Building</p>
-      <p><a href="YOUR_REPOSITORY_LINK">View repository →</a></p>
-    </td>
-  </tr>
- 
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💻 JavaScript Projects</h3>
-      <p>Small practical projects used to strengthen JavaScript fundamentals and frontend development.</p>
-      <p><code>JavaScript</code> <code>Frontend</code></p>
-      <p><b>Status:</b> 🧪 Learning / Building</p>
-      <p><a href="YOUR_REPOSITORY_LINK">View repository →</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🐍 Python Projects</h3>
-      <p>Programming experiments and practical projects used to strengthen Python and computational thinking.</p>
-      <p><code>Python</code> <code>Problem solving</code></p>
-      <p><b>Status:</b> 🧪 Learning / Building</p>
-      <p><a href="YOUR_REPOSITORY_LINK">View repository →</a></p>
-    </td>
-  </tr> -->
 
 </table>
 
@@ -231,8 +196,8 @@ My personal framework for becoming a stronger builder and entrepreneur.
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Sovereign-Emperor&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D4AF37&icon_color=7C3AED&text_color=E6E6E6" />
-  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sovereign-Emperor&layout=compact&hide_border=true&bg_color=0D1117&title_color=D4AF37&text_color=E6E6E6" />
+  <img height="170" alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sovereign-Emperor&theme=github_dark" />
+  <img height="170" alt="Top languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sovereign-Emperor&theme=github_dark" />
   <br /><br />
   <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=Sovereign-Emperor&hide_border=true&background=0D1117&ring=D4AF37&fire=7C3AED&currStreakNum=E6E6E6&sideNums=E6E6E6&currStreakLabel=D4AF37&sideLabels=D4AF37&dates=8F86B3" />
 </div>
@@ -249,14 +214,9 @@ My personal framework for becoming a stronger builder and entrepreneur.
 <div align="center">
   <a href="https://github.com/Sovereign-Emperor"><img src="https://img.shields.io/badge/GitHub-Sovereign--Emperor-0D1117?style=for-the-badge&logo=github&logoColor=D4AF37" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/sovereign-emperor"><img src="https://img.shields.io/badge/LinkedIn-2d1b69?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://sovereign.emperor.portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-2d1b69?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://sovereign-emperor-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-2d1b69?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:enochatikpo@gmail.com"><img src="https://img.shields.io/badge/Email-2d1b69?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://wa.link/0xlkip"><img src="https://img.shields.io/badge/WhatsApp-2d1b69?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  
-  <!-- OPTIONAL: uncomment the ones i'll actually use
-  <a href="YOUR_YOUTUBE_URL"><img src="https://img.shields.io/badge/YouTube-2d1b69?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="YOUR_TIKTOK_URL"><img src="https://img.shields.io/badge/TikTok-2d1b69?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
-  -->
 </div>
 
 <!-- FOOTER -->
