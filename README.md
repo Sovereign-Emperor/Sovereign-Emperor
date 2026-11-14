@@ -38,28 +38,11 @@ I'm a **Computer Science student** learning software engineering by building pra
 Right now, I'm strengthening my foundations in web development, backend programming, databases, and software design. I'm especially interested in full-stack development and thoughtful uses of AI.
 
 <!-- CURRENT FOCUS -->
-<table>
-  <tr>
-    <td width="150"><b>🔭 BUILDING</b></td>
-    <td>Practical web projects and product experiments</td>
-  </tr>
-  <tr>
-    <td><b>🌱 LEARNING</b></td>
-    <td>JavaScript • Python • React • Backend • Databases</td>
-  </tr>
-  <tr>
-    <td><b>🧠 EXPLORING</b></td>
-    <td>AI/ML • Full-stack development • Software architecture</td>
-  </tr>
-  <tr>
-    <td><b>🎯 FOCUS</b></td>
-    <td>Turning ideas and technical skills into useful products</td>
-  </tr>
-  <tr>
-    <td><b>🚀 LONG-TERM</b></td>
-    <td>Technology • Entrepreneurship • Ownership</td>
-  </tr>
-</table>
+- 🔭 **Building:** Practical web projects and product experiments
+- 🌱 **Learning:** JavaScript, Python, React, backend development, and databases
+- 🧠 **Exploring:** AI/ML, full-stack development, and software architecture
+- 🎯 **Focused on:** Turning ideas and technical skills into useful products
+- 🚀 **Long term:** Technology, entrepreneurship, and ownership
 
 <div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
@@ -70,33 +53,31 @@ Right now, I'm strengthening my foundations in web development, backend programm
 
 > A direction, not a trophy case. The notes show what I'm building with, learning, or exploring.
 
-<table>
-  <tr>
-    <td width="130"><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="HTML, CSS, JavaScript, React" /></td>
-    <td><sub>HTML · CSS · JavaScript: <b>building with</b><br/>React: <b>learning</b></sub></td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=py,php,nodejs&theme=dark" alt="Python, PHP, Node.js" /></td>
-    <td><sub>Python · PHP: <b>building with</b><br/>Node.js: <b>exploring</b></sub></td>
-  </tr>
-  <tr>
-    <td><b>Database</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="MySQL, PostgreSQL" /></td>
-    <td><sub>MySQL: <b>building with</b><br/>PostgreSQL: <b>learning / next</b></sub></td>
-  </tr>
-  <tr>
-    <td><b>Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Git, GitHub, VS Code, Linux" /></td>
-    <td><sub>Git · GitHub: <b>building with</b><br/>Linux: <b>exploring</b></sub></td>
-  </tr>
-  <tr>
-    <td><b>AI</b></td>
-    <td><img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" /></td>
-    <td><sub>Python · AI APIs · Machine Learning: <b>exploring / learning</b></sub></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="HTML, CSS, JavaScript, and React" /><br />
+  <strong>Frontend</strong><br />
+  <sub>Building with HTML, CSS, and JavaScript · Learning React</sub>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,php,nodejs&theme=dark" alt="Python, PHP, and Node.js" /><br />
+  <strong>Backend</strong><br />
+  <sub>Building with Python and PHP · Exploring Node.js</sub>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="MySQL and PostgreSQL" /><br />
+  <strong>Databases</strong><br />
+  <sub>Building with MySQL · Learning PostgreSQL</sub>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Git, GitHub, Visual Studio Code, and Linux" /><br />
+  <strong>Tools</strong><br />
+  <sub>Building with Git and GitHub · Exploring Linux</sub>
+</p>
+
+<p align="center"><strong>AI &amp; ML</strong> · Exploring Python, AI APIs, and machine-learning fundamentals</p>
 
 <div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
@@ -121,25 +102,21 @@ Right now, I'm strengthening my foundations in web development, backend programm
 
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Sovereign Emperor Digital Library</h3>
-      <p>An in-progress digital knowledge platform concept for bringing books, courses, PDFs, and coding resources into one place. I'm exploring resource discovery, responsive interfaces, and full-stack product design.</p>
-      <p><code>Digital Library</code> <code>Web Development</code> <code>EdTech</code></p>
-      <p><b>Status:</b> 🚧 In development</p>
-      <p><a href="https://sedilib.netlify.app/">Preview →</a> · <a href="https://github.com/Sovereign-Emperor/digi-market-store">Source code →</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌐 Personal Developer Portfolio</h3>
-      <p>A home for my projects, experiments, technical interests, and ways to connect.</p>
-      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
-      <p><b>Status:</b> 🚧 In progress</p>
-      <p><a href="https://sovereign-emperor-portfolio.netlify.app/">Visit portfolio →</a></p>
-    </td>
-  </tr>
+### 👑 Sovereign Emperor Digital Library
 
-</table>
+An in-progress digital knowledge platform concept for bringing books, courses, PDFs, and coding resources into one place. I'm exploring resource discovery, responsive interfaces, and full-stack product design.
+
+`Digital Library` `Web Development` `EdTech` · **Status:** 🚧 In development
+
+[Preview →](https://sedilib.netlify.app/) · [Source code →](https://github.com/Sovereign-Emperor/digi-market-store)
+
+### 🌐 Personal Developer Portfolio
+
+A home for my projects, experiments, technical interests, and ways to connect.
+
+`HTML` `CSS` `JavaScript` · **Status:** 🚧 In progress
+
+[Visit portfolio →](https://sovereign-emperor-portfolio.netlify.app/)
 
 <div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
@@ -167,33 +144,11 @@ My long-term framework for building the skills and discipline to turn useful ide
 
 > A direction, not a claim that every item is mastered.
 
-<table>
-  <tr>
-    <td width="60" align="center"><b>01</b></td>
-    <td width="170"><b>FOUNDATIONS</b></td>
-    <td>HTML · CSS · JavaScript · Git/GitHub · Programming fundamentals · Databases</td>
-  </tr>
-  <tr>
-    <td align="center"><b>02</b></td>
-    <td><b>MODERN WEB</b></td>
-    <td>React · TypeScript · APIs · Backend development · Authentication · PostgreSQL</td>
-  </tr>
-  <tr>
-    <td align="center"><b>03</b></td>
-    <td><b>ENGINEERING</b></td>
-    <td>Data structures · Algorithms · Architecture · Testing · Security · Linux · Docker · Deployment</td>
-  </tr>
-  <tr>
-    <td align="center"><b>04</b></td>
-    <td><b>AI</b></td>
-    <td>Python · AI APIs · LLMs · Automation · Machine Learning · AI-powered applications</td>
-  </tr>
-  <tr>
-    <td align="center"><b>05</b></td>
-    <td><b>BUILD 👑</b></td>
-    <td>Real users · Real products · Real problems · Real revenue</td>
-  </tr>
-</table>
+- **01 · Foundations:** HTML, CSS, JavaScript, Git/GitHub, programming fundamentals, and databases
+- **02 · Modern web:** React, TypeScript, APIs, backend development, authentication, and PostgreSQL
+- **03 · Engineering:** Data structures, algorithms, architecture, testing, security, Linux, Docker, and deployment
+- **04 · AI:** Python, AI APIs, LLMs, automation, and machine learning
+- **05 · Build:** Real users, useful products, meaningful problems, and sustainable value
 
 <div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
