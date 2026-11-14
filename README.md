@@ -1,16 +1,17 @@
-<!--
-  SOVEREIGN EMPEROR — GitHub Profile README
-  Repo: Sovereign-Emperor/Sovereign-Emperor  
--->
-
 <!-- HERO -->
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=FFD700&center=true&vCenter=true&width=700&lines=COMPUTER+SCIENCE+STUDENT;SOFTWARE+DEVELOPER;EDITOR;TECH+ENTREPRENEUR;BUILDING+SOVEREIGN+EMPIRE" alt="Animated role">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=F5C65D&center=true&vCenter=true&width=820&lines=COMPUTER+SCIENCE+STUDENT;SOFTWARE+DEVELOPER+IN+PROGRESS;BUILDING+USEFUL+PRODUCTS;LEARN+%E2%86%92+BUILD+%E2%86%92+SHIP" alt="Computer Science student, aspiring software developer, and builder" />
 </p>
+
 <div align="center">
   <img src="./assets/hero.svg" width="100%" alt="Sovereign Emperor — Computer Science student, software developer in progress, builder, entrepreneur, problem solver" />
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FOCUS-FULL--STACK_%2B_AI-111827?style=for-the-badge&labelColor=111827&color=7C3AED" alt="Focus: full-stack development and AI" />
+  <img src="https://img.shields.io/badge/APPROACH-LEARN_%E2%80%A2_BUILD_%E2%80%A2_IMPROVE-111827?style=for-the-badge&labelColor=111827&color=D4AF37" alt="Approach: learn, build, improve" />
+  <img src="https://img.shields.io/badge/STATUS-ACTIVELY_BUILDING-111827?style=for-the-badge&labelColor=111827&color=22C55E" alt="Status: actively building projects" />
+</p>
 
 <!-- NAVIGATION -->
 <div align="center">
@@ -21,6 +22,10 @@
   <a href="#connect"><img src="https://img.shields.io/badge/CONTACT-2d1b69?style=for-the-badge" alt="Contact" /></a>
 </div>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2600&pause=800&color=9B8AFB&center=true&vCenter=true&width=700&lines=SOLVE+A+REAL+PROBLEM;BUILD+WITH+PURPOSE;SHIP%2C+LEARN%2C+REPEAT" alt="Build with purpose, ship, learn, and repeat" />
+</p>
+
 <br />
 
 <!-- ABOUT -->
@@ -28,15 +33,15 @@
 
 ## 👑 About
 
-I'm a **Computer Science student**, working toward becoming a strong software engineer and a builder of useful technology.
+I'm a **Computer Science student** learning software engineering by building practical projects. I enjoy turning ideas into useful digital products and improving my skills through hands-on work.
 
-I learn by **building**: practical software, experiments, and ideas turned into working projects. Right now I'm strengthening my foundations in web development, programming, databases and software engineering, while exploring the path toward full-stack development and AI-powered applications.
+Right now, I'm strengthening my foundations in web development, backend programming, databases, and software design. I'm especially interested in full-stack development and thoughtful uses of AI.
 
 <!-- CURRENT FOCUS -->
 <table>
   <tr>
     <td width="150"><b>🔭 BUILDING</b></td>
-    <td>Real-world software projects and experiments</td>
+    <td>Practical web projects and product experiments</td>
   </tr>
   <tr>
     <td><b>🌱 LEARNING</b></td>
@@ -48,11 +53,11 @@ I learn by **building**: practical software, experiments, and ideas turned into 
   </tr>
   <tr>
     <td><b>🎯 FOCUS</b></td>
-    <td>Turning technical skills into useful products</td>
+    <td>Turning ideas and technical skills into useful products</td>
   </tr>
   <tr>
     <td><b>🚀 LONG-TERM</b></td>
-    <td>Technology + Entrepreneurship + Ownership</td>
+    <td>Technology • Entrepreneurship • Ownership</td>
   </tr>
 </table>
 
@@ -63,7 +68,7 @@ I learn by **building**: practical software, experiments, and ideas turned into 
 
 ## ⚡ Tech Stack
 
-> A direction, not a trophy case. Labels show where I actually am with each tool.
+> A direction, not a trophy case. The notes show what I'm building with, learning, or exploring.
 
 <table>
   <tr>
@@ -102,7 +107,7 @@ I learn by **building**: practical software, experiments, and ideas turned into 
   <img src="./assets/flow.svg" width="100%" alt="Problem, research, learn, build, test, ship, get feedback, improve, then repeat" />
 </div>
 
-> *I don't want to learn technology without a destination. Projects give my learning a purpose.*
+> *I learn with a destination: build something useful, get feedback, and make it better.*
 
 <!-- TERMINAL -->
 <div align="center">
@@ -120,16 +125,16 @@ I learn by **building**: practical software, experiments, and ideas turned into 
   <tr>
     <td width="50%" valign="top">
       <h3>Sovereign Emperor Digital Library</h3>
-      <p>Building a digital knowledge ecosystem to centralize books, courses, PDFs, and coding resources. Strengthening my skills in full-stack architecture, database design, and responsive UI while solving resource discovery and learning challenges.</p>
-      <p><code>Digital Knowledge & Learning Platform</code> <code>Web Development</code> <code>EdTech</code></p>
-      <p><b>Status:</b> 🚧 Concept / Development</p>
-      <p><a href="https://github.com/Sovereign-Emperor/digi-market-store">View repository →</a></p>
+      <p>An in-progress digital knowledge platform concept for bringing books, courses, PDFs, and coding resources into one place. I'm exploring resource discovery, responsive interfaces, and full-stack product design.</p>
+      <p><code>Digital Library</code> <code>Web Development</code> <code>EdTech</code></p>
+      <p><b>Status:</b> 🚧 In development</p>
+      <p><a href="https://sedilib.netlify.app/">Preview →</a> · <a href="https://github.com/Sovereign-Emperor/digi-market-store">Source code →</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>🌐 Personal Developer Portfolio</h3>
-      <p>My personal developer portfolio for showcasing projects, technical skills, experiments and contact information.</p>
+      <p>A home for my projects, experiments, technical interests, and ways to connect.</p>
       <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
-      <p><b>Status:</b> 🚧 Building</p>
+      <p><b>Status:</b> 🚧 In progress</p>
       <p><a href="https://sovereign-emperor-portfolio.netlify.app/">Visit portfolio →</a></p>
     </td>
   </tr>
@@ -141,7 +146,7 @@ I learn by **building**: practical software, experiments, and ideas turned into 
 <!-- PROJECT SOVEREIGN -->
 ## 👑 Project Sovereign
 
-My personal framework for becoming a stronger builder and entrepreneur.
+My long-term framework for building the skills and discipline to turn useful ideas into products.
 
 <div align="center">
 
@@ -151,7 +156,7 @@ My personal framework for becoming a stronger builder and entrepreneur.
 
 > *Find real problems. Build useful solutions. Get them into the hands of real people.*
 
-**Long-term vision.** Sovereign Empire represents my broader ambition to combine technology, entrepreneurship and product building. Areas I'm exploring (none are existing businesses): digital commerce, software products, AI, financial technology, education, digital platforms, and African technology markets.
+**Long-term vision.** Sovereign Empire represents my ambition to combine technology, entrepreneurship, and product building. I'm exploring digital commerce, software, AI, education, and technology opportunities in African markets.
 
 <div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
